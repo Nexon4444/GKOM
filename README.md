@@ -1,0 +1,2 @@
+# GKOM
+Projekt na gkomy
