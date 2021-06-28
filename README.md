@@ -1,2 +1,2 @@
 # GKOM
-Projekt na gkomy
+Creating a 3D model in OpenGL
